@@ -6,5 +6,4 @@ import lombok.Data;
 public class MessageModel {
 
     private String message;
-    private String routingKey;
 }

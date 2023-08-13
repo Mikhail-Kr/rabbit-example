@@ -40,7 +40,7 @@ public class RabbigConfiguration {
 
     @Bean
     FanoutExchange exchange() {
-        return new FanoutExchange("testExchange", true, true);
+        return new FanoutExchange("testExchange", true, false);
     }
 
     @Bean
