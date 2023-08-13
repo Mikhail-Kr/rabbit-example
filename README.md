@@ -2,7 +2,7 @@ This is pet project for test rabbitMq possibilities and performance
 
 Get started:
 
-1. run "docker compose up" in console for start image rabbit mq
+1. run "docker compose up" in console in package "\resources" for start image rabbit mq
 2. configurate app in application.properties for yoru PC
 3. run app
 4. open "http://127.0.0.1:15672/" username: rmuser, pass: rmpassword
