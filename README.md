@@ -1,1 +1,1 @@
-# rabbitExample
+# rabbit-example
